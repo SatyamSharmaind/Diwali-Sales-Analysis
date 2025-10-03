@@ -36,12 +36,6 @@
 - Major spending states: Uttar Pradesh, Maharashtra, Karnataka 
 - Key occupations: IT, Healthcare, Aviation 
 - Preferred categories: Food, Clothes, Electronics
-## Business Conclusion 
-- Target Segment: Married women, age 26–35 
-- Key Markets: UP, Maharashtra, Karnataka 
-- Occupation Focus: IT, Healthcare, Aviation 
-- Product Strategy: Promote Food, Clothing, and Electronics 
-- Potential for tailored marketing campaigns 
 ## Power BI Visualization 
 - Connected Python-cleaned dataset to Power BI 
 - Built interactive dashboard using: 
@@ -54,8 +48,15 @@
 - Slicers & Filters for interactivity 
 - Shapes & Icons (Freepik) for design
 
-  # Dashboard
+# Dashboard
   <img width="1727" height="974" alt="Screenshot 2025-10-04 000614" src="https://github.com/user-attachments/assets/2a07a0bc-94e4-48f1-b009-04ceb3c5bf43" />
   <img width="2552" height="1224" alt="Screenshot 2025-10-04 000649" src="https://github.com/user-attachments/assets/8dcb6551-bfa3-40ab-abd7-82353887bc71" />
+
+## Business Conclusion 
+- Target Segment: Married women, age 26–35 
+- Key Markets: UP, Maharashtra, Karnataka 
+- Occupation Focus: IT, Healthcare, Aviation 
+- Product Strategy: Promote Food, Clothing, and Electronics 
+- Potential for tailored marketing campaigns
 
   # Thankyou
