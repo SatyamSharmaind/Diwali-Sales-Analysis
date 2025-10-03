@@ -55,6 +55,8 @@
 - Shapes & Icons (Freepik) for design
 
   # Dashboard
+  https://github.com/SatyamSharmaind/Diwali-Sales-Analysis/blob/main/Screenshot%202025-10-04%20000614.png
+  
   
 
   # Thankyou
