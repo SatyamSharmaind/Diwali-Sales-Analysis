@@ -1,11 +1,11 @@
 # Diwali Sales Data Analysis 
 • By: Satyam Sharma 
 ## Dataset Overview 
-• Dataset: 11,251 rows and 15 columns 
-• Cleaned in Python: 
-• Dropped null values 
-• Removed unnecessary columns 
-• Converted Amount column from float → integer 
+- Dataset: 11,251 rows and 15 columns 
+- Cleaned in Python: 
+- Dropped null values 
+- Removed unnecessary columns 
+- Converted Amount column from float → integer 
 ## Analysis Approach (EDA) 
 • Conducted Exploratory Data Analysis (EDA) in Python 
 • Focused on customer spending patterns 
